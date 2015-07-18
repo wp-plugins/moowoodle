@@ -49,6 +49,9 @@ The password policy settings needed to be disabled since the user password will 
 
 1. Administration > Site administration > Security > Site policies > Uncheck `Password policy` > Do not forget to save changes.
 
+= Feedback =
+All we want is love. We are extremely responsive about support requests - so if you face a problem or find any bugs, shoot us a mail or post it in the support forum, and we will respond within 24 hours(during business days). If you get the impulse to rate the plugin low because it is not working as it should, please do wait for our response because the root cause of the problem may be something else. 
+
 == Installation ==
 NOTE: Woo-Moodle bridge plugin is a extention of WooCommerce, so the WooCommerce plugin must be installed and activated in your WordPress site for this plugin to work properly.
 
