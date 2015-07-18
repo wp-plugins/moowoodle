@@ -52,7 +52,7 @@ class DC_Woodle_Settings {
     global $DC_Woodle;
     
     $tabs = apply_filters('dc_woodle_tabs', array(
-      'dc_woodle_general' => __('Woodle General', $DC_Woodle->text_domain)
+      'dc_woodle_general' => __('MooWoodle General', $DC_Woodle->text_domain)
     ));
     return $tabs;
   }
