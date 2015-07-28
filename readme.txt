@@ -13,6 +13,8 @@ The MooWoodle plugin is an extention of WooCommerce that acts as a bridge betwee
 == Description ==
 The MooWoodle plugin is an extention of WooCommerce that acts as a bridge between WordPress/Woocommerce and Moodle. It fetches all the courses from your Moodle instance and makes them available for sale, which may be bought by users through WooCommerce. It reduces your effort by synchronising your LMS site with your online store. And when someone purchases a course from the store he/she is automatically gets registered for the course in the LMS site. More over this plugin works with WooCommerce subscription plugin too.
 
+* For details documentation: [Click Here](https://dualcube.com/installation-guide-for-moowoodle/)
+
 = Compatibility =
 * WooCommerce 2.2.1+
 * WordPress 4.1.1+
